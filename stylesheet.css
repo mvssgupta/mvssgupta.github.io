@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+  font-size: 60px;
+}
+ .content P {
+  color: balck;
+}
+
+.footer p {
+  color: blue;
+
+}
+
+.submit-button {
+  display : block;
+  margin-top: 20px;
+  background-color: yellow ;
+  font-size: 20px;
+}
+
+.name {
+  margin-top: 100px;
+}
+
+input , textarea {
+  font-size: 20px;
+}
